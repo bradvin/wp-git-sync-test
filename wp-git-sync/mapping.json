@@ -1,6 +1,6 @@
 {
     "branch": "main",
-    "generated_at": "2026-02-09T11:04:45+00:00",
+    "generated_at": "2026-02-09T11:04:52+00:00",
     "github_owner": "bradvin",
     "github_repo": "wp-git-sync-test",
     "items": {
@@ -432,6 +432,17 @@
             "post_title": "Test Gallery",
             "post_type": "page",
             "slug": "test-gallery"
+        },
+        "1256": {
+            "content_path": "page/1256.md",
+            "last_synced_at": "2026-02-09T11:04:52+00:00",
+            "meta_path": "page/1256.meta.json",
+            "permalink": "http://localhost:10003/?page_id=1256",
+            "post_id": 1256,
+            "post_path": "page/1256.json",
+            "post_title": "Test Site Editor",
+            "post_type": "page",
+            "slug": "test-site-editor"
         },
         "1832": {
             "content_path": "post/1832.md",
