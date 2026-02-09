@@ -1,6 +1,6 @@
 {
     "branch": "main",
-    "generated_at": "2026-02-09T11:03:33+00:00",
+    "generated_at": "2026-02-09T11:03:39+00:00",
     "github_owner": "bradvin",
     "github_repo": "wp-git-sync-test",
     "items": {
@@ -300,6 +300,17 @@
             "post_title": "Elementor #764",
             "post_type": "page",
             "slug": "764"
+        },
+        "852": {
+            "content_path": "page/852.md",
+            "last_synced_at": "2026-02-09T11:03:39+00:00",
+            "meta_path": "page/852.meta.json",
+            "permalink": "http://localhost:10003/filtering/",
+            "post_id": 852,
+            "post_path": "page/852.json",
+            "post_title": "Filtering",
+            "post_type": "page",
+            "slug": "filtering"
         },
         "1211": {
             "content_path": "post/1211.md",
