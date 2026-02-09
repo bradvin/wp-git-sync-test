@@ -1,6 +1,6 @@
 {
     "branch": "main",
-    "generated_at": "2026-02-09T10:59:54+00:00",
+    "generated_at": "2026-02-09T11:00:01+00:00",
     "github_owner": "bradvin",
     "github_repo": "wp-git-sync-test",
     "items": {
@@ -69,6 +69,17 @@
             "post_title": "Cart",
             "post_type": "page",
             "slug": "cart"
+        },
+        "33": {
+            "content_path": "page/33.md",
+            "last_synced_at": "2026-02-09T11:00:01+00:00",
+            "meta_path": "page/33.meta.json",
+            "permalink": "http://localhost:10003/checkout/",
+            "post_id": 33,
+            "post_path": "page/33.json",
+            "post_title": "Checkout",
+            "post_type": "page",
+            "slug": "checkout"
         },
         "493": {
             "content_path": "page/493.md",
