@@ -1,6 +1,6 @@
 {
     "branch": "main",
-    "generated_at": "2026-02-09T11:13:00+00:00",
+    "generated_at": "2026-02-09T11:13:07+00:00",
     "github_owner": "bradvin",
     "github_repo": "wp-git-sync-test",
     "items": {
@@ -476,6 +476,17 @@
             "post_title": "All Galleries",
             "post_type": "page",
             "slug": "all-galleries"
+        },
+        "1366": {
+            "content_path": "page/1366.md",
+            "last_synced_at": "2026-02-09T11:13:07+00:00",
+            "meta_path": "page/1366.meta.json",
+            "permalink": "http://localhost:10003/album-2/",
+            "post_id": 1366,
+            "post_path": "page/1366.json",
+            "post_title": "Album",
+            "post_type": "page",
+            "slug": "album-2"
         },
         "1832": {
             "content_path": "post/1832.md",
