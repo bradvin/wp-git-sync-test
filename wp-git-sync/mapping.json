@@ -1,6 +1,6 @@
 {
     "branch": "main",
-    "generated_at": "2026-02-09T10:33:44+00:00",
+    "generated_at": "2026-02-09T10:41:33+00:00",
     "github_owner": "bradvin",
     "github_repo": "wp-git-sync-test",
     "items": {
@@ -14,6 +14,17 @@
             "post_title": "FAQ Test",
             "post_type": "page",
             "slug": "faq-test"
+        },
+        "554": {
+            "content_path": "page/554.md",
+            "last_synced_at": "2026-02-09T10:41:33+00:00",
+            "meta_path": "page/554.meta.json",
+            "permalink": "http://localhost:10003/?page_id=554",
+            "post_id": 554,
+            "post_path": "page/554.json",
+            "post_title": "Demo : Responsive",
+            "post_type": "page",
+            "slug": "554"
         },
         "727": {
             "content_path": "page/727.md",
