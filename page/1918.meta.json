@@ -1,22 +1,4 @@
 {
-    "_elementor_css": [
-        "a:6:{s:4:\"time\";i:1770672745;s:5:\"fonts\";a:0:{}s:5:\"icons\";a:1:{i:0;s:0:\"\";}s:20:\"dynamic_elements_ids\";a:0:{}s:6:\"status\";s:4:\"file\";i:0;s:0:\"\";}"
-    ],
-    "_elementor_edit_mode": [
-        "builder"
-    ],
-    "_elementor_element_cache": [
-        "{\"timeout\":1770759145,\"value\":{\"content\":\"<div class=\\\"elementor-element elementor-element-61e0b12 e-flex e-con-boxed e-con e-parent\\\" data-id=\\\"61e0b12\\\" data-element_type=\\\"container\\\">\\n\\t\\t\\t\\t\\t<div class=\\\"e-con-inner\\\">\\n\\t\\t\\t\\t<div class=\\\"elementor-element elementor-element-8d7e3d9 elementor-widget elementor-widget-heading\\\" data-id=\\\"8d7e3d9\\\" data-element_type=\\\"widget\\\" data-widget_type=\\\"heading.default\\\">\\n\\t\\t\\t\\t\\t<h2 class=\\\"elementor-heading-title elementor-size-default\\\">Add Your Heading Text Here<\\/h2>\\t\\t\\t\\t<\\/div>\\n\\t\\t\\t\\t\\t<\\/div>\\n\\t\\t\\t\\t<\\/div>\\n\\t\\t<div class=\\\"elementor-element elementor-element-29558e1 e-flex e-con-boxed e-con e-parent\\\" data-id=\\\"29558e1\\\" data-element_type=\\\"container\\\">\\n\\t\\t\\t\\t\\t<div class=\\\"e-con-inner\\\">\\n\\t\\t<div class=\\\"elementor-element elementor-element-fcba4cb e-con-full e-flex e-con e-child\\\" data-id=\\\"fcba4cb\\\" data-element_type=\\\"container\\\">\\n\\t\\t\\t\\t<\\/div>\\n\\t\\t<div class=\\\"elementor-element elementor-element-0da3d76 e-con-full e-flex e-con e-child\\\" data-id=\\\"0da3d76\\\" data-element_type=\\\"container\\\">\\n\\t\\t\\t\\t<\\/div>\\n\\t\\t<div class=\\\"elementor-element elementor-element-887ce8f e-con-full e-flex e-con e-child\\\" data-id=\\\"887ce8f\\\" data-element_type=\\\"container\\\">\\n\\t\\t\\t\\t<\\/div>\\n\\t\\t<div class=\\\"elementor-element elementor-element-ae05f65 e-con-full e-flex e-con e-child\\\" data-id=\\\"ae05f65\\\" data-element_type=\\\"container\\\">\\n\\t\\t\\t\\t<\\/div>\\n\\t\\t\\t\\t<div class=\\\"elementor-element elementor-element-cc82dfb elementor-widget elementor-widget-image\\\" data-id=\\\"cc82dfb\\\" data-element_type=\\\"widget\\\" data-widget_type=\\\"image.default\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<img src=\\\"http:\\/\\/localhost:10003\\/wp-content\\/plugins\\/elementor\\/assets\\/images\\/placeholder.png\\\" title=\\\"\\\" alt=\\\"\\\" loading=\\\"lazy\\\" \\/>\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<\\/div>\\n\\t\\t[elementor-element k=\\\"77a4be08b4053297a76af21a3aa37c20\\\" data=\\\"eyJpZCI6IjdjMGI0ZjQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6W10sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6InRleHQtZWRpdG9yIn0=\\\"]\\t\\t<div class=\\\"elementor-element elementor-element-2f415af elementor-widget elementor-widget-button\\\" data-id=\\\"2f415af\\\" data-element_type=\\\"widget\\\" data-widget_type=\\\"button.default\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t<a class=\\\"elementor-button elementor-button-link elementor-size-sm\\\" href=\\\"#\\\">\\n\\t\\t\\t\\t\\t\\t<span class=\\\"elementor-button-content-wrapper\\\">\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<span class=\\\"elementor-button-text\\\">Click here<\\/span>\\n\\t\\t\\t\\t\\t<\\/span>\\n\\t\\t\\t\\t\\t<\\/a>\\n\\t\\t\\t\\t\\t\\t\\t\\t<\\/div>\\n\\t\\t\\t\\t\\t<\\/div>\\n\\t\\t\\t\\t<\\/div>\\n\\t\\t\",\"scripts\":[],\"styles\":[]}}"
-    ],
-    "_elementor_page_assets": [
-        "a:2:{s:6:\"styles\";a:2:{i:0;s:14:\"widget-heading\";i:1;s:12:\"widget-image\";}s:7:\"scripts\";a:1:{i:0;s:18:\"elementor-frontend\";}}"
-    ],
-    "_elementor_template_type": [
-        "wp-page"
-    ],
-    "_elementor_version": [
-        "3.34.1"
-    ],
     "_wp_page_template": [
         "default"
     ]
