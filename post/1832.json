@@ -1,0 +1,31 @@
+{
+    "ID": 1832,
+    "ancestors": [],
+    "comment_count": "0",
+    "comment_status": "closed",
+    "filter": "raw",
+    "guid": "http://localhost:10003/?p=1832",
+    "menu_order": 0,
+    "page_template": "",
+    "ping_status": "open",
+    "pinged": "",
+    "post_author": "1",
+    "post_category": [
+        1
+    ],
+    "post_content_filtered": "",
+    "post_date": "2026-01-21 09:41:11",
+    "post_date_gmt": "2026-01-21 09:41:11",
+    "post_excerpt": "",
+    "post_mime_type": "",
+    "post_modified": "2026-01-21 09:41:11",
+    "post_modified_gmt": "2026-01-21 09:41:11",
+    "post_name": "how-to-create-sales-funnels-that-convert-the-best-tools-to-use",
+    "post_parent": 0,
+    "post_password": "",
+    "post_status": "publish",
+    "post_title": "How to Create Sales Funnels That Convert &amp; the Best Tools to Use",
+    "post_type": "post",
+    "tags_input": [],
+    "to_ping": ""
+}

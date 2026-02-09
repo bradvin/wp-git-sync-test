@@ -1,6 +1,6 @@
 {
     "branch": "main",
-    "generated_at": "2026-02-09T10:58:48+00:00",
+    "generated_at": "2026-02-09T10:58:54+00:00",
     "github_owner": "bradvin",
     "github_repo": "wp-git-sync-test",
     "items": {
@@ -91,6 +91,17 @@
             "post_title": "Test Post",
             "post_type": "post",
             "slug": "1211"
+        },
+        "1832": {
+            "content_path": "post/1832.md",
+            "last_synced_at": "2026-02-09T10:58:54+00:00",
+            "meta_path": "post/1832.meta.json",
+            "permalink": "http://localhost:10003/how-to-create-sales-funnels-that-convert-the-best-tools-to-use/",
+            "post_id": 1832,
+            "post_path": "post/1832.json",
+            "post_title": "How to Create Sales Funnels That Convert &amp; the Best Tools to Use",
+            "post_type": "post",
+            "slug": "how-to-create-sales-funnels-that-convert-the-best-tools-to-use"
         }
     },
     "version": "0.1.0"
