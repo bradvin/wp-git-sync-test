@@ -1,6 +1,6 @@
 {
     "branch": "main",
-    "generated_at": "2026-02-09T11:01:36+00:00",
+    "generated_at": "2026-02-09T11:01:43+00:00",
     "github_owner": "bradvin",
     "github_repo": "wp-git-sync-test",
     "items": {
@@ -102,6 +102,17 @@
             "post_title": "Refund and Returns Policy",
             "post_type": "page",
             "slug": "refund_returns"
+        },
+        "120": {
+            "content_path": "page/120.md",
+            "last_synced_at": "2026-02-09T11:01:43+00:00",
+            "meta_path": "page/120.meta.json",
+            "permalink": "http://localhost:10003/?page_id=120",
+            "post_id": 120,
+            "post_path": "page/120.json",
+            "post_title": "Test Printify",
+            "post_type": "page",
+            "slug": "120"
         },
         "493": {
             "content_path": "page/493.md",
