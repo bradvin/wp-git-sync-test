@@ -1,6 +1,6 @@
 {
     "branch": "main",
-    "generated_at": "2026-02-09T11:03:13+00:00",
+    "generated_at": "2026-02-09T11:03:20+00:00",
     "github_owner": "bradvin",
     "github_repo": "wp-git-sync-test",
     "items": {
@@ -267,6 +267,17 @@
             "post_title": "FooBox Test",
             "post_type": "page",
             "slug": "foobox-test"
+        },
+        "758": {
+            "content_path": "page/758.md",
+            "last_synced_at": "2026-02-09T11:03:20+00:00",
+            "meta_path": "page/758.meta.json",
+            "permalink": "http://localhost:10003/foobox-image-test/",
+            "post_id": 758,
+            "post_path": "page/758.json",
+            "post_title": "FooBox Image Test",
+            "post_type": "page",
+            "slug": "foobox-image-test"
         },
         "1211": {
             "content_path": "post/1211.md",
