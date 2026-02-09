@@ -1,6 +1,6 @@
 {
     "branch": "main",
-    "generated_at": "2026-02-09T11:13:20+00:00",
+    "generated_at": "2026-02-09T11:13:27+00:00",
     "github_owner": "bradvin",
     "github_repo": "wp-git-sync-test",
     "items": {
@@ -509,6 +509,17 @@
             "post_title": "Social",
             "post_type": "page",
             "slug": "social"
+        },
+        "1419": {
+            "content_path": "page/1419.md",
+            "last_synced_at": "2026-02-09T11:13:27+00:00",
+            "meta_path": "page/1419.meta.json",
+            "permalink": "http://localhost:10003/freemius-test/",
+            "post_id": 1419,
+            "post_path": "page/1419.json",
+            "post_title": "Freemius Test",
+            "post_type": "page",
+            "slug": "freemius-test"
         },
         "1832": {
             "content_path": "post/1832.md",
