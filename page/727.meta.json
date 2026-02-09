@@ -1,0 +1,30 @@
+{
+    "_elementor_data": [
+        "[{\"id\":\"ce8d919\",\"elType\":\"container\",\"settings\":[],\"elements\":[{\"id\":\"06a8db6\",\"elType\":\"widget\",\"settings\":{\"gallery\":[{\"id\":520,\"url\":\"http:\\/\\/localhost:10003\\/wp-content\\/uploads\\/2025\\/08\\/7.jpg\"},{\"id\":521,\"url\":\"http:\\/\\/localhost:10003\\/wp-content\\/uploads\\/2025\\/08\\/8.jpg\"},{\"id\":518,\"url\":\"http:\\/\\/localhost:10003\\/wp-content\\/uploads\\/2025\\/08\\/5.jpg\"},{\"id\":519,\"url\":\"http:\\/\\/localhost:10003\\/wp-content\\/uploads\\/2025\\/08\\/6.jpg\"},{\"id\":517,\"url\":\"http:\\/\\/localhost:10003\\/wp-content\\/uploads\\/2025\\/08\\/4.jpg\"},{\"id\":515,\"url\":\"http:\\/\\/localhost:10003\\/wp-content\\/uploads\\/2025\\/08\\/2.jpg\"},{\"id\":516,\"url\":\"http:\\/\\/localhost:10003\\/wp-content\\/uploads\\/2025\\/08\\/3.jpg\"}],\"galleries\":[{\"gallery_title\":\"New Gallery\",\"_id\":\"8713cc9\"}],\"show_all_galleries_label\":\"All\",\"_animation\":\"none\"},\"elements\":[],\"widgetType\":\"gallery\"}],\"isInner\":false},{\"id\":\"f6f90cf\",\"elType\":\"container\",\"settings\":[],\"elements\":[{\"id\":\"97df768\",\"elType\":\"widget\",\"settings\":{\"gallery_id\":\"696\"},\"elements\":[],\"widgetType\":\"foogallery\"}],\"isInner\":false}]"
+    ],
+    "_elementor_edit_mode": [
+        "builder"
+    ],
+    "_elementor_pro_version": [
+        "3.30.1"
+    ],
+    "_elementor_template_type": [
+        "wp-page"
+    ],
+    "_elementor_version": [
+        "3.31.5"
+    ],
+    "_foogallery": [
+        "696",
+        "696",
+        "703",
+        "696",
+        "704",
+        "696",
+        "704",
+        "698"
+    ],
+    "_wp_page_template": [
+        "default"
+    ]
+}
