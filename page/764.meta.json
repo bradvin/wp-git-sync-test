@@ -1,0 +1,26 @@
+{
+    "_edit_last": [
+        "1"
+    ],
+    "_elementor_data": [
+        "[{\"id\":\"7c467a4\",\"elType\":\"container\",\"settings\":[],\"elements\":[{\"id\":\"1e3df7f\",\"elType\":\"widget\",\"settings\":{\"gallery_id\":\"719\"},\"elements\":[],\"widgetType\":\"foogallery\"}],\"isInner\":false}]"
+    ],
+    "_elementor_edit_mode": [
+        "builder"
+    ],
+    "_elementor_pro_version": [
+        "3.31.3"
+    ],
+    "_elementor_template_type": [
+        "wp-page"
+    ],
+    "_elementor_version": [
+        "3.31.5"
+    ],
+    "_foogallery": [
+        "719"
+    ],
+    "_wp_page_template": [
+        "default"
+    ]
+}
