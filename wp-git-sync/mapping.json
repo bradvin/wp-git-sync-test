@@ -1,6 +1,6 @@
 {
     "branch": "main",
-    "generated_at": "2026-02-09T11:02:27+00:00",
+    "generated_at": "2026-02-09T11:02:35+00:00",
     "github_owner": "bradvin",
     "github_repo": "wp-git-sync-test",
     "items": {
@@ -190,6 +190,17 @@
             "post_title": "Justified Gallery",
             "post_type": "page",
             "slug": "justified-gallery"
+        },
+        "484": {
+            "content_path": "page/484.md",
+            "last_synced_at": "2026-02-09T11:02:35+00:00",
+            "meta_path": "page/484.meta.json",
+            "permalink": "http://localhost:10003/test-checkout/",
+            "post_id": 484,
+            "post_path": "page/484.json",
+            "post_title": "Test Checkout",
+            "post_type": "page",
+            "slug": "test-checkout"
         },
         "493": {
             "content_path": "page/493.md",
